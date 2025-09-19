@@ -230,11 +230,12 @@ Please review the FracAtlas dataset license before using it commercially.
 
 ---
 
-## 🖼 Sample Output (Add Example Images Here)
+## 🖼 Sample Output 
 
-| Original X-ray                     | Predicted Mask                   | Overlay                                |
-| ---------------------------------- | -------------------------------- | -------------------------------------- |
-| ![Input](sample_results/input.png) | ![Mask](sample_results/mask.png) | ![Overlay](sample_results/overlay.png) |
+
+<img width="1524" height="599" alt="image" src="https://github.com/user-attachments/assets/38998ec3-e02e-4acd-987b-c8a84979ca37" />
+<img width="1449" height="588" alt="image" src="https://github.com/user-attachments/assets/43296731-a5aa-4444-9351-7770f430dc91" />
+
 
 ---
 
